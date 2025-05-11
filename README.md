@@ -122,7 +122,9 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tripathi-Ashu&" alt="GitHub Streak" />
 </p>
 
-<h3 align="left">Hey! Would you like to see My **Portfolio**:</h3>
+<h3 align="left">Projects and Contributions:</h3>
+<h3 align="left">Hey! Would you like to see My <strong>Portfolio</strong>:</h3>
 <p align="left">
- Follow this link to visit my portfolio: <a href="[https://github.com/Tripathi-Ashu](https://wondrous-piroshki-90059c.netlify.app/)" target="_blank">Ashutosh Tripathi-Portfolio</a>
+  Follow this link to visit my portfolio: 
+  <a href="https://wondrous-piroshki-90059c.netlify.app/" target="_blank">Ashutosh Tripathi - Portfolio</a>
 </p>
