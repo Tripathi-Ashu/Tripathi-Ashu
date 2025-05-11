@@ -7,7 +7,7 @@
 
 <img align="right" width="420" src="https://www.geeky-gadgets.com/wp-content/uploads/2024/02/How-to-use-GitHub-Copilot-AI-coding-assistant.webp" alt="GitHub Copilot">
 
-- 🔭 I'm currently working on **Blockchain Projects and Image Processing**
+- 🔭 I'm currently working on **Artificail Intelligence and Deep Learning**
 - 🌱 I'm currently learning **AI/ML, Deep Learning, React, Node.js and Web Development**
 - 👨‍💻 B.Tech (CSE) final-year Student with a keen interest in AI/ML
 - 📫 How to reach me: **ashutripathi.rajababu@gmail.com**
