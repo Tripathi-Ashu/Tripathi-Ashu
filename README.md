@@ -5,9 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=Tripathi-Ashu&label=Profile%20views&color=0e75b6&style=flat" alt="Ashutosh Tripathi" />
 </p>
 
-<p align="center"><h1 align="center">Hi 👋, I'm Anmol Kumar</h1>
-<h3 align="center">Passionate learner | AI/ML Enthusiast | Love to Code</h3>
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=anmol-kumar01&label=Profile%20views&color=0e75b6&style=flat" alt="Anmol Kumar" />
 </p>
