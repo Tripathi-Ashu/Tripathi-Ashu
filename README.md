@@ -1,7 +1,6 @@
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/SonalJaiswal/SonalJaiswal/main/dist/github-jet.svg"
-    alt="GitHub Jet Heatmap"
-    width="100%"
-  />
-</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="Tripathi-Ashu's GitHub profile" src="dark_mode.svg" />
+</picture>
