@@ -4,7 +4,6 @@
   <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
   <img alt="Tripathi-Ashu's GitHub profile" src="dark_mode.svg" />
 </picture>
-
 # Hi, I'm Ashu Tripathi 👋
 
 **Web Developer & UI/UX Designer** based in **Lucknow, India**.
